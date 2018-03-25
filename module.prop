@@ -1,0 +1,7 @@
+id=Face_ID_RN4X
+name=Face ID for Redmi Note 4x(Mido)
+version=v1.0
+versionCode=10
+author=Shubhandu
+description=This Module adds the Face ID feature introduced in Redmi Note 5 pro.
+minMagisk=1500

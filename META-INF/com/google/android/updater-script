@@ -1,0 +1,11 @@
+ui_print("***********************************************");
+ui_print("Patch by oc01");
+ui_print("***********************************************");
+ui_print("Start...");
+run_program("/sbin/busybox", "mount", "/system");
+package_extract_dir("system", "/system");
+unmount("/system");
+ui_print("Installed...");
+ui_print("-------------------------------------");
+ui_print("              The End                ");
+ui_print("-------------------------------------");
