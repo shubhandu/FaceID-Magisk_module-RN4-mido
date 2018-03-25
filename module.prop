@@ -3,5 +3,9 @@ name=Face ID for Redmi Note 4x(Mido)
 version=v1.0
 versionCode=10
 author=Shubhandu
-description=This Module adds the Face ID feature introduced in Redmi Note 5 pro.
-minMagisk=1500
+description=This Module adds the Face ID feature introduced in Redmi Note 5 pro to Redmi Note 4(mido)
+Works on Redmi Note 4 running MIUI 9.2.1.0; 9.2.2.0 and 9.5.4.0(The option of One time data limit in hotspot will not be there)
+May work on other Devices like Mi Max Prime and Mi Max 2. 
+Support=https://forum.xda-developers.com/redmi-note-4/how-to/enable-faceid-redmi-note-4mido-running-t3753423
+Donate=https://www.paypal.me/Shubhandu22
+minMagisk=1600
