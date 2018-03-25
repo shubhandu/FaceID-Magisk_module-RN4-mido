@@ -9,4 +9,5 @@ Face Unlock was introduced with Redmi Note 5 pro, this module enable the feature
  -If found any other problems comment on the thread on [XDA](https://forum.xda-developers.com/redmi-note-4/how-to/enable-faceid-redmi-note-4mido-running-t3753423)
 
 ## Credits-
-oc01, topjohnwu for creating the magisk and template for module.
+ -oc01
+ -topjohnwu for creating the magisk and template for module.
