@@ -1,9 +1,12 @@
-# Magisk Module Template
+# FaceID for Redmi note 4(mido)
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+## Details-
+Face Unlock was introduced with Redmi Note 5 pro, this module enable the feature on Redmi Note 4 running on MIUI 9.2.1.0, 9.2.2.0 and 9.5.4.0
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+## Bugs-
+ -This module was created for MIUI 9.2.1.0 and works without any problem on it.
+ -It also works with new update 9.5.4.0 except the option of One time data limit in hotspot will not be there.
+ -If found any other problems comment on the thread on [XDA](https://forum.xda-developers.com/redmi-note-4/how-to/enable-faceid-redmi- note-4mido-running-t3753423)
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+## Credits-
+oc01
